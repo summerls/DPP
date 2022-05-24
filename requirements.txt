@@ -1,0 +1,14 @@
+jpeg==9e
+certifi==2022.5.18.1
+tk==8.6.11
+numpy==1.22.3
+xz==5.2.5
+libtiff==4.2.0
+sqlite==3.38.3
+numpy-base==1.22.3
+kiwisolver==1.4.2
+zstd==1.5.2
+ipython==8.3.0
+jupyter_core==4.10.0
+notebook==6.4.11
+winpty==0.4.3

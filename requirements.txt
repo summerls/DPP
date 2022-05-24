@@ -1,5 +1,5 @@
 certifi==2022.5.18.1
-tk==8.6.11
+tk
 numpy==1.22.3
 xz==5.2.5
 libtiff==4.2.0

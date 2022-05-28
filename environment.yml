@@ -7,4 +7,5 @@ dependencies:
   - matplotlib
   - jupyter
   - scikit-learn
+  - voila=0.3.4
   
